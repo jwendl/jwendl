@@ -1,5 +1,3 @@
-![Banner](banner.jpg)
-
 # More about jwendl (Justin Wendlandt)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jwendl.jwendl)
