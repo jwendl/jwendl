@@ -20,8 +20,9 @@ I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍
 - 🐱‍💻 Windows Subsystem for Linux (Ubuntu 20.04)
 - Visual Studio for C# / .NET Core
 - Visual Studio Code for any other Language
-- Terraform
+- Bicep
 - .NET Core
+- Azure PaaS
 - GO
 
 > While I am a firm believer of using the right tool for the job, I have found a lot of success using the above technologies.
