@@ -15,7 +15,7 @@ I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍
 
 ## Technology Preferences
 
-- 💻 Windows 10
+- 💻 Windows 11
 - 🐱‍💻 Windows Subsystem for Linux (Ubuntu 20.04)
 - Visual Studio for C# / .NET Core
 - Visual Studio Code for any other Language
