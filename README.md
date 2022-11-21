@@ -6,7 +6,6 @@ I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍
 
 ## Social Links
 
-- 🦅 [Twitter](https://twitter.com/jwendlandt)
 - 🖥 [GitHub](https://github.com/jwendl)
 - 👔 [LinkedIn](https://linkedin.com/in/jwendl/)
 - 🎥 [Twitch](https://twitch.tv/jwendl)
