@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jwendl.jwendl)
 
-I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍💻🐱‍🐉 who works on [Azure](https://azure.microsoft.com/en-us/) inside [Xbox Studio Services](https://www.xbox.com/en-US/xbox-game-studios) 🎮
+I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍💻🐱‍🐉 who works on [Azure](https://azure.microsoft.com/en-us/) inside [Xbox Game Studios](https://www.xbox.com/en-US/xbox-game-studios) 🎮
 
 ## Social Links
 
