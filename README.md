@@ -9,7 +9,6 @@ I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍
 - 🎥 [Twitch](https://twitch.tv/jwendl)
 - 🎮 [Steam](https://steamcommunity.com/id/jwendl/)
 - 💵 [PayPal](https://paypal.me/jwendl)
-- 🐘 [Mastodon](https://mastodon.jwendl.net/invite/YuP7RkLm)
 
 ## Technology Preferences
 
