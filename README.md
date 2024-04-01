@@ -24,7 +24,6 @@ I'm a Software Engineer at [Microsoft](https://www.microsoft.com/en-us/) 🐱‍
 ## OSS Projects I Love
 
 - [Moq](https://github.com/Moq/moq4/wiki/Quickstart)
-- [Azure Terraform Provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Bicep](https://github.com/Azure/bicep)
 - [Azure SDK](https://github.com/Azure/azure-sdk-for-net)
 - [Blazor](https://github.com/dotnet/blazor)
